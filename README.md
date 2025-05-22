@@ -20,7 +20,9 @@ Accurate rainfall prediction is crucial for agriculture, water resource manageme
 
 📁 File Structure
 .
+
 ├── Rainfall_Prediction.ipynb 
+
 ├── weatherAUS.csv 
 
 🛠 Requirements
